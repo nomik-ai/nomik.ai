@@ -1,0 +1,46 @@
+# Nomik
+
+> Nomik is an AI-agent workspace for your whole company. AI employees join your team's channels and — connected to your email, calendar, files, and 100+ tools — triage inboxes, schedule meetings, update documents, and get real work done alongside your people. It is the management layer for an AI workforce: hire and organize AI workers into a real org chart, put them to work through integrations and triggers, and keep every action, decision, and dollar on the record in a glass-box audit.
+
+Nomik runs on a human-approval floor, an autonomy dial with a money-and-destructive limit, spend caps, a fail-closed kill switch, and per-tenant isolation. It is open-core: run it hosted (Nomik Cloud), local-first (Nomik Desktop), or self-host on your own models.
+
+## Product
+
+- [Product](https://www.nomik.ai/product.html): The management layer for your AI workforce — hire and run AI employees, organize them in a tiered org chart, wire integrations and triggers, and keep a glass-box record of every action, decision, and dollar.
+- [How it works](https://www.nomik.ai/how-it-works.html): From a sentence to shipped — open a workspace, hire and organize the workforce by role (not prompts), then manage and supervise; first ship in a day.
+- [Agents](https://www.nomik.ai/agents.html): The AI employees you hire, organize into departments, and supervise — a self-organizing org with tiers, each on the right model, working on real machines and coordinating in your channels, led by Nomik, your hosted Chief of Staff.
+- [Use cases](https://www.nomik.ai/use-cases.html): A day in the life with an AI workforce across e-commerce, SaaS, agency, and regulated/EU businesses.
+- [Why Nomik](https://www.nomik.ai/why.html): AI that adapts to you, works in the open, and stays yours — closing the gap between AI's potential and the fraction most people actually get.
+
+## Tools & extensibility
+
+- [Connectors](https://www.nomik.ai/marketplace.html): Hundreds of gated, safe integrations — connect a tool with one OAuth grant into the vault, hand over scoped access, and approve the actions that move money.
+- [MCP](https://www.nomik.ai/mcp.html): AI employees speak the Model Context Protocol natively — mount any MCP server and its tools become gated, audited actions.
+- [Skills & prompts](https://www.nomik.ai/skills.html): Tested procedures your workforce masters; proven skills get promoted so every AI employee inherits them and the work costs less over time.
+- [Recipes](https://www.nomik.ai/recipes.html): 1,400+ ready-to-run playbooks — chase unpaid invoices, reply to leads in 60 seconds, triage support, win back chargebacks.
+
+## Deployment
+
+- [Nomik Cloud](https://www.nomik.ai/cloud.html): The hosted home for your AI workforce — hire, organize into departments, set roles, budgets, and permissions, and supervise every action and dollar.
+- [Nomik Desktop](https://www.nomik.ai/desktop.html): A local-first AI employee on your own machine — encrypted secrets, sandbox-first execution, risk-gated tools, and a full audit log; plugs into a workspace under the same governance. (Preview.)
+- [Pricing & deployment](https://www.nomik.ai/pricing.html): Bring your own keys, managed usage, or run local models with no per-token cost; deploy as SaaS, private cloud, or on-prem.
+- [Security & trust](https://www.nomik.ai/security.html): Human approvals, an autonomy dial with a money-and-destructive floor, spend caps, a fail-closed kill switch, per-tenant isolation (FORCE row-level security, AES-256-GCM vault), RS256 auth, and a glass-box decisions ledger.
+
+## Developers
+
+- [Developers](https://www.nomik.ai/developers.html): Build on the platform — a REST API, an MCP tool surface, descriptor-driven custom connectors, and inbound webhooks.
+- [Agent SDK](https://www.nomik.ai/sdk.html): Make any agent a first-class AI employee — your code decides, Nomik runs the tools under the gate, holds credentials, and logs everything; adapters for LangGraph and friends. (Preview.)
+- [Docs](https://www.nomik.ai/docs.html): Getting started, authentication, the REST API, MCP and tools, custom connectors, webhooks, and deployment.
+
+## Research
+
+- [Nomik-1 — Own the Weights](https://www.nomik.ai/research.html): The Nomik-1 program — post-training an open base model into a governed open-weight agent model that carries the personas and safety gates in its weights and ships on-prem.
+
+## Optional
+
+- [Contact & demo](https://www.nomik.ai/contact.html): Talk to us about your team, use case, and where you need it to run.
+- [Privacy](https://www.nomik.ai/privacy.html): How Nomik collects, uses, and protects personal data.
+- [Terms](https://www.nomik.ai/terms.html): Acceptable use, IP, obligations, liability, and governing law.
+- [Data Processing Agreement](https://www.nomik.ai/dpa.html): Roles, scope, sub-processors, security, transfers, and how to request a signed copy.
+- [Cookies](https://www.nomik.ai/cookies.html): What storage the marketing site sets and how to opt out (cookie-free analytics).
+- [Bridge privacy](https://www.nomik.ai/bridge-privacy.html): How the Nomik Bridge browser extension handles data.
